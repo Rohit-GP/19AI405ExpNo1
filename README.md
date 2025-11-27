@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: KANISH TR  </h3>
-<h3>Register Number: 212224060116</h3>
+<h3>Name: Rohit GP  </h3>
+<h3>Register Number: 212224220082</h3>
 
 
 <h3>AIM:</h3>
